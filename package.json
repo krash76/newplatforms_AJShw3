@@ -1,0 +1,23 @@
+{
+  "name": "newplatforms_ajshw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krash76/newplatforms_AJShw3.git"
+  },
+  "author": "krash76",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krash76/newplatforms_AJShw3/issues"
+  },
+  "homepage": "https://github.com/krash76/newplatforms_AJShw3#readme",
+  "dependencies": {
+    "@krash76/platorms_ajshw3": "^1.0.0"
+  }
+}
